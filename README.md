@@ -38,15 +38,15 @@ The cv2.destroyAllWindows() function is called to close any OpenCV windows after
 
 ---
 <p><h1><b>EXAMPLE </b></h1></p>
+**Input image
 
 ![Image](https://github.com/user-attachments/assets/8d006d26-e312-4cad-9a7d-3b129793fcf9)
 
-
----
 **Watermark image to add **
-!C:\Users\DeLL\Desktop\PROJECTS\watermarking image\watermark.png
+![Image](https://github.com/user-attachments/assets/350d9bfd-39ce-4b0c-b81a-dd1b555561dd)
+
+**watermarked_image**
+![Image](https://github.com/user-attachments/assets/f112f39d-7114-47f5-ab66-f5ff52a48bb4)
 
 ---
-## WATERMARKED IMAGE 
 
-!C:\Users\DeLL\Desktop\PROJECTS\watermarking image\watermarkedimage.jpg
