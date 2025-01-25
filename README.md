@@ -39,7 +39,7 @@ The cv2.destroyAllWindows() function is called to close any OpenCV windows after
 ---
 <p><h1><b>EXAMPLE </b></h1></p>
 
-`![input ](image.jpg)`
+![Image](https://github.com/user-attachments/assets/8d006d26-e312-4cad-9a7d-3b129793fcf9)
 
 
 ---
